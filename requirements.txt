@@ -1,0 +1,5 @@
+
+```txt
+selenium
+undetected-chromedriver
+fpdf
